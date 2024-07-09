@@ -1,22 +1,16 @@
-# [How to Build a Tool-using ReAct Agent with Claude 3.5 and Python](https://medium.com/p/95423f798640)
+# [How to Build a Tool-using ReAct Agent with Claude 3.5 and Python](#)
 
 ## We present a Reason+Act agent that iteratively reasons and gathers information from external tools before providing an answer.
 
-and 
 
-# [Anthropic Claude 3.5: A More Powerful but Cheaper LLM](#)
-
-## We look at Anthropic's new Claude 3.5 Sonnet LLM, explore the API and create a simple Streamlit chatbot
-
-This folder contains the code and data to support the articles above.
+This folder contains the code and data to support the article above.
 
 
 _Files_
 
 - `ct.ipynb` is the main notebook for this article - it implements the code and contains various examples of use
 - ``c1.ipynb`` is a simple call to the Claude 3.5 LLM
-- ``st-claude.py`` is a Streamlit app that uses Claude to implement a simple chatbot
- 
+
 ---
 ### If you find this content useful, please consider one or more of the following:
 
